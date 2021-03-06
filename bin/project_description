@@ -1,0 +1,10 @@
+
+AUTHOR: Lily D
+
+DATE: March 5, 2021
+
+DESCRIPTION:
+This project creates an automated teller machine to accept a user's 
+login credentials (username and password) to access their 
+bank account and allow them to withdraw, deposit, and view their 
+bank account balance.
