@@ -1,9 +1,13 @@
 # ATM_Project
 Java program that simulates ATM user actions (deposit/withdrawal)
 
-# ATM_Project
-
 **ATM** is a simple program that mimics an ATM, with a log-in process and ability to withdrawal/deposit funds
+
+Valid users are:
+  * Pablo = 82958
+  * Xin = 28433
+  * Dipti = 14382
+  * William = 73858
 
 Time spent: **4** hours spent in total
 
