@@ -11,9 +11,17 @@ Valid users are:
 
 Time spent: **4** hours spent in total
 
+## Concepts
+- [x] HashMaps are used to pair valid usernames and passwords
+- [x] Calculation methods for withdrawals/deposits
+- [x] Getters/setters for current balance/username/password
+- [x] Instead of printing/prompting on screen, implemented lots of alert dialogs
+- [x] DecimalFormat is used to correctly show balance
+- [x] Inheritance (*extends*) between classes 
+
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the application:
 
 <img src='ATMWalkthrough.gif' title='ATM Walkthrough' width='' alt='ATM Walkthrough' />
 
